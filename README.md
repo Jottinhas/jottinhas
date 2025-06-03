@@ -1,4 +1,4 @@
-<h2>🖖🏻Olá, eu sou o Jonatas Souza, estudante de Ciência da Computação</h2>
+<h2>🖖Olá, eu sou o Jonatas Souza, estudante de Ciência da Computação 🙋🏻‍♂️</h2>
 <p>Me apaixonei por Java e os assuntos que abrangem ele, 
 então estarei buscando me aprimorar e ser sempre mais ativo buscando engajar as minhas redes e alcançar a minha primeira oportunidade profissional.😊</p>
 
